@@ -1,2 +1,3 @@
 # hello-world
-Where I store ideas, resources, and share/discuss things with others.
+
+My name is George Song. I'm a sophomore at Atlanta International School and I take computer science with Mr. JB
